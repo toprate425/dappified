@@ -1,0 +1,211 @@
+.pro-sidebar > .pro-sidebar-inner {
+    background: #21214c;
+    line-height: 30px;
+}
+
+.wallet-landing-reverse {
+    flex-direction: row-reverse;
+}
+
+.wallet-landing-img {
+    max-width: 600px;
+}
+
+.open-wallet-btn {
+    color: white!important;
+    background-color: #006cff!important;
+    font-size: 16px!important;
+    font-weight: bold!important;
+    padding: 10px 0px!important;
+    text-transform: none!important;
+}
+
+.nft-container {
+    background: rgb(33 33 76); 
+    display: flex; 
+    margin-bottom: 4px; 
+    padding: 15px;
+}
+
+.airdrop-container {
+    max-width: 650px;
+    margin: 0px auto;
+}
+
+.airdrop-card-img {
+    position: relative;
+    margin-bottom: 32px;
+}
+
+.airdrop-card-img-footer {
+    position: absolute;
+    bottom: 0px;
+    align-items: center;
+    background-color: rgba(0,0,0,0.5);
+    border-radius: 0px 0px 10px 10px;
+    padding: 15px 20px;
+    opacity: 1;
+    backdrop-filter: blur(27px);
+}
+
+.airdrop-feature-img {
+    width: 48px;
+    height: 48px;
+    align-items: center;
+    padding: 2px;
+    margin: 0px 15px 0px 0px;
+    display: flex;
+    justify-content: center;
+}
+
+.airdrop-card {
+    width: 100%;
+    border-radius: 10px;
+    padding: 15px 20px;
+    background-color: #051738;
+    margin-bottom: 32px;
+}
+
+.airdrop-card-title {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.airdrop-card-content {
+    font-size: 12px;
+}
+
+.portfolio-feedback-wrapper {
+    border-top: 1px solid #006cff;
+}
+
+.feedback-wrapper {
+    padding: 30px 0px;
+    text-align: center;
+    align-items: center;
+}
+
+.email-input > .MuiOutlinedInput-root > .MuiOutlinedInput-input {
+    padding: 10px 14px!important
+}
+
+@media only screen and (max-width: 1168px) {
+    .wallet-landing-img {
+        max-width: 400px!important;
+    }
+}
+
+.heading {
+    font-size: 64px;
+}
+
+.heading-bold {
+    font-size: 64px;
+    font-weight: bold;
+}
+
+.title {
+    font-size: 34px;
+}
+
+.primary-btn {
+    color: white!important;
+    background-color: #0823b9!important;
+    font-weight: bold!important;
+    text-transform: none!important;
+    padding: 7px 10px!important;
+    cursor: pointer!important;
+}
+
+.secondary-btn {
+    color: white!important;
+    background-color: #051738!important;
+    border: 1px solid #006cff!important;
+    font-weight: bold!important;
+    text-transform: none!important;
+    cursor: pointer!important;
+    padding: 7px 15px!important;
+}
+
+.secondary-btn:hover{
+    background: #006cff!important;
+    transition: all 0.5s!important;
+}
+
+.text-btn {
+    color: #73869f!important;
+    font-size: 15px!important;
+    text-transform: none!important;
+}
+
+.text-btn:hover {
+    color: white!important;
+}
+
+.icon-btn:hover {
+    color: white;
+}
+
+.expired-btn {
+    color: #ff9898!important;
+    font-size: 15px!important;
+    text-transform: none!important;
+    margin: 0px 10px!important;
+}
+
+.d-flex { display: flex }
+
+.text-left { text-align: left }
+.text-center { text-align: center }
+.text-right { text-align: right }
+
+.align-items-center { align-items: center }
+
+.jc-btw { justify-content: space-between }
+.jc-center { justify-content: center }
+
+.border-15 { border-radius: 15px }
+
+.bold {
+    font-weight: bold;
+}
+
+.w-1 { width: 10% }
+.w-2 { width: 20% }
+.w-3 { width: 30% }
+.w-4 { width: 40% }
+.w-5 { width: 50% }
+.w-6 { width: 60% }
+.w-7 { width: 70% }
+.w-8 { width: 80% }
+.w-9 { width: 90% }
+.w-10 { width: 100% }
+
+.p-15 { padding: 15px }
+
+.pr-10 { padding-right: 10px }
+
+.pb-30 { padding-bottom: 30px }
+
+.m-0 { margin: 0px }
+.mt-0 { margin-top: 0px }
+.mt-15 { margin-top: 15px }
+.mt-20 { margin-top: 20px }
+.mt-30 { margin-top: 30px }
+
+.mb-0 { margin-bottom: 0px }
+.mb-5 { margin-bottom: 5px }
+.mb-10 { margin-bottom: 10px }
+.mb-15 { margin-bottom: 15px }
+.mb-30 { margin-bottom: 30px }
+.mb-60 { margin-bottom: 60px }
+
+.white { color: white }
+.red { color: red }
+
+a {
+    text-decoration: none;
+    font-weight: bold;
+    color: #1253bd;
+    margin-left: 5px;
+}
