@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/dappified/static/css/main.b97d8a45.chunk.css",
+    "main.js": "/dappified/static/js/main.a6dc21de.chunk.js",
+    "main.js.map": "/dappified/static/js/main.a6dc21de.chunk.js.map",
+    "runtime-main.js": "/dappified/static/js/runtime-main.bbb46d1a.js",
+    "runtime-main.js.map": "/dappified/static/js/runtime-main.bbb46d1a.js.map",
+    "static/css/2.7d31e46d.chunk.css": "/dappified/static/css/2.7d31e46d.chunk.css",
+    "static/js/2.b27ca6ad.chunk.js": "/dappified/static/js/2.b27ca6ad.chunk.js",
+    "static/js/2.b27ca6ad.chunk.js.map": "/dappified/static/js/2.b27ca6ad.chunk.js.map",
+    "static/js/3.9af060da.chunk.js": "/dappified/static/js/3.9af060da.chunk.js",
+    "static/js/3.9af060da.chunk.js.map": "/dappified/static/js/3.9af060da.chunk.js.map",
+    "index.html": "/dappified/index.html",
+    "static/css/2.7d31e46d.chunk.css.map": "/dappified/static/css/2.7d31e46d.chunk.css.map",
+    "static/css/main.b97d8a45.chunk.css.map": "/dappified/static/css/main.b97d8a45.chunk.css.map",
+    "static/js/2.b27ca6ad.chunk.js.LICENSE.txt": "/dappified/static/js/2.b27ca6ad.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bbb46d1a.js",
+    "static/css/2.7d31e46d.chunk.css",
+    "static/js/2.b27ca6ad.chunk.js",
+    "static/css/main.b97d8a45.chunk.css",
+    "static/js/main.a6dc21de.chunk.js"
+  ]
+}
