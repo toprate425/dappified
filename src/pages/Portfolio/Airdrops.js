@@ -43,7 +43,7 @@ const Airdrops = () => {
             <div className="nft-container">
                 <SideBar />
                 <div className="w-10 white">
-                    <div className="airdrop-container text-center">
+                    <div className="card-container text-center">
                         <h1 className="title">Airdrops</h1>
                         <div className="w-10">
                             <div className="airdrop-card-img">
@@ -78,6 +78,9 @@ const Airdrops = () => {
                                     <Button className="expired-btn">Expired</Button>
                                     <Button className="secondary-btn">Details</Button>
                                 </div>
+                            </div>
+                            <div className="airdrop-card-img cursor-pointer">
+                                <img className="border-15" src="/airdrop/kind-image.png" />
                             </div>
                             <div className="airdrop-card d-flex jc-btw align-items-center">
                                 <div className="d-flex jc-center">

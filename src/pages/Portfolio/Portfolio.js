@@ -42,7 +42,7 @@ const Portfolio = () => {
                                 <Button className="text-btn">Polygon</Button>
                             </div>
                             <FormControl className="w-10" >
-                                <div className="w-10 mb-15">
+                                <div className="w-10 mb-25">
                                     <TextField 
                                         className="w-10"
                                         name="address"
@@ -58,7 +58,7 @@ const Portfolio = () => {
                                     />
                                 </div>
                                 <Button className="open-wallet-btn">Open Wallet</Button>
-                                <div className="d-flex jc-btw mt-15">
+                                <div className="d-flex jc-btw mt-25">
                                     <Button className="w-3 primary-btn">MetaMask</Button>
                                     <Button className="w-3 primary-btn">WalletConnect</Button>
                                     <Button className="w-3 primary-btn">Coinbase Wallet</Button>
