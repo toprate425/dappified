@@ -75,7 +75,7 @@ const Portfolio = () => {
                             <span>Always stay up-to-date with the performance of your holdings and net worth. Track the historical activity of your Ethereum or Binance Smart Chain wallet</span>
                         </div>
                         <div className="w-6">
-                            <img className="wallet-landing-img" src="/portfolio/wallet_landing_assets_1.png" alt="image" />
+                            <img className="wallet-landing-img" src="/dappified/portfolio/wallet_landing_assets_1.png" alt="image" />
                         </div>
                     </div>
                     <div className="d-flex wallet-landing">
@@ -84,7 +84,7 @@ const Portfolio = () => {
                             <span>Visualize your NFT Portfolio in a clean interface and estimate your total value by the last sale price. Easily share your portfolio with anybody.</span>
                         </div>
                         <div className="w-6 text-right">
-                            <img className="wallet-landing-img" src="/portfolio/wallet_landing_nft_1.png" />
+                            <img className="wallet-landing-img" src="/dappified/portfolio/wallet_landing_nft_1.png" />
                         </div>
                     </div>
                 </div>

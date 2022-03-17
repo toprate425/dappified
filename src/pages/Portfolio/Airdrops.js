@@ -25,13 +25,13 @@ const useStyles = makeStyles((theme) => ({
 }));
 
 const tempArry = [
-    { name: 'GHST', img: '/airdrop/GHST.png', title: 'Aavegotchi GHST airdrop', content: '$500 worth of GHST to 100 lucky winners'},
-    { name: 'gmee', img: '/airdrop/gmee.png', title: 'GAMEE (GMEE) airdrop', content: '$500 worth of GMEE tokens to 100 lucky winners!'},
-    { name: 'MATIC', img: '/airdrop/POLYGON.png', title: 'MATIC airdrop', content: '$500 worth of MATIC tokens to 100 lucky winners!'},
-    { name: 'UNLAND', img: '/airdrop/UNLAND.png', title: 'ULAND (ULAND) airdrop', content: '$500 worth of ULAND to 100 lucky winners'},
-    { name: 'THG', img: '/airdrop/THG.png', title: 'Thetan Arena (THG) airdrop', content: '$500 worth of THG to 100 lucky winners'},
-    { name: 'TLM', img: '/airdrop/TLM.png', title: 'Alien Worlds (BSC) (TLM) airdrop', content: '$500 worth of TLM (BSC) to 100 lucky winners'},
-    { name: 'XWG', img: '/airdrop/XWG.png', title: 'X World Games (XWG) airdrop', content: '$500 worth of XWG to 100 lucky winners'},
+    { name: 'GHST', img: '/dappified/airdrop/GHST.png', title: 'Aavegotchi GHST airdrop', content: '$500 worth of GHST to 100 lucky winners'},
+    { name: 'gmee', img: '/dappified/airdrop/gmee.png', title: 'GAMEE (GMEE) airdrop', content: '$500 worth of GMEE tokens to 100 lucky winners!'},
+    { name: 'MATIC', img: '/dappified/airdrop/POLYGON.png', title: 'MATIC airdrop', content: '$500 worth of MATIC tokens to 100 lucky winners!'},
+    { name: 'UNLAND', img: '/dappified/airdrop/UNLAND.png', title: 'ULAND (ULAND) airdrop', content: '$500 worth of ULAND to 100 lucky winners'},
+    { name: 'THG', img: '/dappified/airdrop/THG.png', title: 'Thetan Arena (THG) airdrop', content: '$500 worth of THG to 100 lucky winners'},
+    { name: 'TLM', img: '/dappified/airdrop/TLM.png', title: 'Alien Worlds (BSC) (TLM) airdrop', content: '$500 worth of TLM (BSC) to 100 lucky winners'},
+    { name: 'XWG', img: '/dappified/airdrop/XWG.png', title: 'X World Games (XWG) airdrop', content: '$500 worth of XWG to 100 lucky winners'},
 ];
 
 const Airdrops = () => {
@@ -47,11 +47,11 @@ const Airdrops = () => {
                         <h1 className="title">Airdrops</h1>
                         <div className="w-10">
                             <div className="airdrop-card-img">
-                                <img className="border-15" src="/airdrop/airdrop.jpg" />
+                                <img className="border-15" src="/dappified/airdrop/airdrop.jpg" />
                                 <div className="airdrop-card-img-footer d-flex jc-btw w-10">
                                     <div className="d-flex jc-center">
                                         <div className="airdrop-feature-img">
-                                            <img className="w-10" src="/airdrop/revv-motorsport.png" />
+                                            <img className="w-10" src="/dappified/airdrop/revv-motorsport.png" />
                                         </div>
                                         <div className="align-items-center text-left">
                                             <span className="airdrop-card-title">REVV Motorsport (REVV) airdrop</span><br />
@@ -67,7 +67,7 @@ const Airdrops = () => {
                             <div className="airdrop-card d-flex jc-btw align-items-center">
                                 <div className="d-flex jc-center">
                                     <div className="airdrop-feature-img">
-                                        <img className="w-10" src="/airdrop/WRLD.png" alt="WRLD" />
+                                        <img className="w-10" src="/dappified/airdrop/WRLD.png" alt="WRLD" />
                                     </div>
                                     <div className="align-items-center text-left">
                                         <span className="airdrop-card-title">NFT Worlds (WRLD) airdrop</span><br />
@@ -80,12 +80,12 @@ const Airdrops = () => {
                                 </div>
                             </div>
                             <div className="airdrop-card-img cursor-pointer">
-                                <img className="border-15" src="/airdrop/kind-image.png" />
+                                <img className="border-15" src="/dappified/airdrop/kind-image.png" />
                             </div>
                             <div className="airdrop-card d-flex jc-btw align-items-center">
                                 <div className="d-flex jc-center">
                                     <div className="airdrop-feature-img">
-                                        <img className="w-10" src="/airdrop/quickswap-logo.png" alt="Quickswap" />
+                                        <img className="w-10" src="/dappified/airdrop/quickswap-logo.png" alt="Quickswap" />
                                     </div>
                                     <div className="align-items-center text-left">
                                         <span className="airdrop-card-title">Quickswap (QUICK) airdrop</span><br />

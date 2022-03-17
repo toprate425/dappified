@@ -29,13 +29,13 @@ const Estimator = () => {
                         <div className="text-center">
                             <div className="card-container d-flex p-relative mb-30">
                                 <div className="card-container-img-left">
-                                    <img src="/img/axie-full-transparent.png" className="img-loaded" alt="nft-cryptokittie" />
+                                    <img src="/dappified/img/axie-full-transparent.png" className="img-loaded" alt="nft-cryptokittie" />
                                 </div>
                                 <div className="card-container-img-right">
-                                    <img src="/img/crypto-punk.png" className="img-loaded" alt="nft-cryptopunk" />
+                                    <img src="/dappified/img/crypto-punk.png" className="img-loaded" alt="nft-cryptopunk" />
                                 </div>
                                 <div className="card text-center">
-                                    <img src="/img/scale.png" />
+                                    <img src="/dappified/img/scale.png" />
                                     <div className="card--title">
                                         <span>Get price estimates of any NFT</span>
                                     </div>

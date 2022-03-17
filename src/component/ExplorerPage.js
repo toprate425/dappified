@@ -96,7 +96,7 @@ function ExplorerPage() {
                     <div className={classes.table}>
                         <Grid container className={classes.tableRow} style={{height: "40px"}}>
                             <Grid item xs={12} sm={0} md={1} style={{paddingLeft: "11px"}}>1
-                                <img src="pancakeswap-dapp-defi-bsc-logo-50x50_20e5d8b6c50c2cead9eb33120e4e1417.png" style={{width: "25px", verticalAlign: "middle", float: "right"}}></img>
+                                <img src="/dappified/pancakeswap-dapp-defi-bsc-logo-50x50_20e5d8b6c50c2cead9eb33120e4e1417.png" style={{width: "25px", verticalAlign: "middle", float: "right"}}></img>
                             </Grid>
                             <Grid item xs={12} sm={0} md={6}>PancakeSwap(BSC)
                             </Grid>
@@ -113,7 +113,7 @@ function ExplorerPage() {
                         </Grid>
                         <Grid container className={classes.tableRow} style={{height: "40px"}}>
                             <Grid item xs={12} sm={0} md={1} style={{paddingLeft: "11px"}}>2
-                                <img src="pancakeswap-dapp-defi-bsc-logo-50x50_20e5d8b6c50c2cead9eb33120e4e1417.png" style={{width: "25px", verticalAlign: "middle", float: "right"}}></img>
+                                <img src="/dappified/pancakeswap-dapp-defi-bsc-logo-50x50_20e5d8b6c50c2cead9eb33120e4e1417.png" style={{width: "25px", verticalAlign: "middle", float: "right"}}></img>
                             </Grid>
                             <Grid item xs={12} sm={0} md={6}>PancakeSwap(BSC)
                             </Grid>
@@ -130,7 +130,7 @@ function ExplorerPage() {
                         </Grid>
                         <Grid container className={classes.tableRow} style={{height: "40px"}}>
                             <Grid item xs={12} sm={0} md={1} style={{paddingLeft: "11px"}}>3
-                                <img src="pancakeswap-dapp-defi-bsc-logo-50x50_20e5d8b6c50c2cead9eb33120e4e1417.png" style={{width: "25px", verticalAlign: "middle", float: "right"}}></img>
+                                <img src="/dappified/pancakeswap-dapp-defi-bsc-logo-50x50_20e5d8b6c50c2cead9eb33120e4e1417.png" style={{width: "25px", verticalAlign: "middle", float: "right"}}></img>
                             </Grid>
                             <Grid item xs={12} sm={0} md={6}>PancakeSwap(BSC)
                             </Grid>
@@ -147,7 +147,7 @@ function ExplorerPage() {
                         </Grid>
                         <Grid container className={classes.tableRow} style={{height: "40px"}}>
                             <Grid item xs={12} sm={0} md={1} style={{paddingLeft: "11px"}}>4
-                                <img src="pancakeswap-dapp-defi-bsc-logo-50x50_20e5d8b6c50c2cead9eb33120e4e1417.png" style={{width: "25px", verticalAlign: "middle", float: "right"}}></img>
+                                <img src="/dappified/pancakeswap-dapp-defi-bsc-logo-50x50_20e5d8b6c50c2cead9eb33120e4e1417.png" style={{width: "25px", verticalAlign: "middle", float: "right"}}></img>
                             </Grid>
                             <Grid item xs={12} sm={0} md={6}>PancakeSwap(BSC)
                             </Grid>
@@ -164,7 +164,7 @@ function ExplorerPage() {
                         </Grid>
                         <Grid container className={classes.tableRow} style={{height: "40px"}}>
                             <Grid item xs={12} sm={0} md={1} style={{paddingLeft: "11px"}}>5
-                                <img src="pancakeswap-dapp-defi-bsc-logo-50x50_20e5d8b6c50c2cead9eb33120e4e1417.png" style={{width: "25px", verticalAlign: "middle", float: "right"}}></img>
+                                <img src="/dappified/pancakeswap-dapp-defi-bsc-logo-50x50_20e5d8b6c50c2cead9eb33120e4e1417.png" style={{width: "25px", verticalAlign: "middle", float: "right"}}></img>
                             </Grid>
                             <Grid item xs={12} sm={0} md={6}>PancakeSwap(BSC)
                             </Grid>
@@ -181,7 +181,7 @@ function ExplorerPage() {
                         </Grid>
                         <Grid container className={classes.tableRow} style={{height: "40px"}}>
                             <Grid item xs={12} sm={0} md={1} style={{paddingLeft: "11px"}}>6
-                                <img src="pancakeswap-dapp-defi-bsc-logo-50x50_20e5d8b6c50c2cead9eb33120e4e1417.png" style={{width: "25px", verticalAlign: "middle", float: "right"}}></img>
+                                <img src="/dappified/pancakeswap-dapp-defi-bsc-logo-50x50_20e5d8b6c50c2cead9eb33120e4e1417.png" style={{width: "25px", verticalAlign: "middle", float: "right"}}></img>
                             </Grid>
                             <Grid item xs={12} sm={0} md={6}>PancakeSwap(BSC)
                             </Grid>
@@ -198,7 +198,7 @@ function ExplorerPage() {
                         </Grid>
                         <Grid container className={classes.tableRow} style={{height: "40px"}}>
                             <Grid item xs={12} sm={0} md={1} style={{paddingLeft: "11px"}}>7
-                                <img src="pancakeswap-dapp-defi-bsc-logo-50x50_20e5d8b6c50c2cead9eb33120e4e1417.png" style={{width: "25px", verticalAlign: "middle", float: "right"}}></img>
+                                <img src="/dappified/pancakeswap-dapp-defi-bsc-logo-50x50_20e5d8b6c50c2cead9eb33120e4e1417.png" style={{width: "25px", verticalAlign: "middle", float: "right"}}></img>
                             </Grid>
                             <Grid item xs={12} sm={0} md={6}>PancakeSwap(BSC)
                             </Grid>
@@ -215,7 +215,7 @@ function ExplorerPage() {
                         </Grid>
                         <Grid container className={classes.tableRow} style={{height: "40px"}}>
                             <Grid item xs={12} sm={0} md={1} style={{paddingLeft: "11px"}}>8
-                                <img src="pancakeswap-dapp-defi-bsc-logo-50x50_20e5d8b6c50c2cead9eb33120e4e1417.png" style={{width: "25px", verticalAlign: "middle", float: "right"}}></img>
+                                <img src="/dappified/pancakeswap-dapp-defi-bsc-logo-50x50_20e5d8b6c50c2cead9eb33120e4e1417.png" style={{width: "25px", verticalAlign: "middle", float: "right"}}></img>
                             </Grid>
                             <Grid item xs={12} sm={0} md={6}>PancakeSwap(BSC)
                             </Grid>
@@ -232,7 +232,7 @@ function ExplorerPage() {
                         </Grid>
                         <Grid container className={classes.tableRow} style={{height: "40px"}}>
                             <Grid item xs={12} sm={0} md={1} style={{paddingLeft: "11px"}}>9
-                                <img src="pancakeswap-dapp-defi-bsc-logo-50x50_20e5d8b6c50c2cead9eb33120e4e1417.png" style={{width: "25px", verticalAlign: "middle", float: "right"}}></img>
+                                <img src="/dappified/pancakeswap-dapp-defi-bsc-logo-50x50_20e5d8b6c50c2cead9eb33120e4e1417.png" style={{width: "25px", verticalAlign: "middle", float: "right"}}></img>
                             </Grid>
                             <Grid item xs={12} sm={0} md={6}>PancakeSwap(BSC)
                             </Grid>
@@ -249,7 +249,7 @@ function ExplorerPage() {
                         </Grid>
                         <Grid container className={classes.tableRow} style={{height: "40px"}}>
                             <Grid item xs={12} sm={0} md={1} style={{paddingLeft: "11px"}}>10
-                                <img src="pancakeswap-dapp-defi-bsc-logo-50x50_20e5d8b6c50c2cead9eb33120e4e1417.png" style={{width: "25px", verticalAlign: "middle", float: "right"}}></img>
+                                <img src="/dappified/pancakeswap-dapp-defi-bsc-logo-50x50_20e5d8b6c50c2cead9eb33120e4e1417.png" style={{width: "25px", verticalAlign: "middle", float: "right"}}></img>
                             </Grid>
                             <Grid item xs={12} sm={0} md={6}>PancakeSwap(BSC)
                             </Grid>
